@@ -1,0 +1,57 @@
+{
+    "name":"Luis Gustavo C. Zanetti Pereira",
+    "role":"Desenvolvedor Fullstack",
+    "resume":"O perfil deste profissional é voltado para a arquitetura e a solução de problemas, ele prefere utilizar o reaproveitamento de código e metodologias ágeis. Com o aprendizado rápido e a busca por sempre obter uma melhor perfomance e eficiência dos algorítmos ele se destaca e adapta a quaisquer tecnologias ou metodologias utilizadas.",
+    "personal":{
+        "email":"luisgustavoczp@gmail.com",
+        "linkedin":"https://www.linkedin.com/in/luis-gustavo-zanetti",
+        "github":"https://github.com/LuisGustavoCZP",
+        "location":"Umuarama, Paraná, Brasil"
+    },
+    "skills":{
+        "hard":[
+            "Javascript",
+            "Typescript",
+            "Node",
+            "Express",
+            "Nest",
+            "React",
+            "Tailwind",
+            "StyledComponents",
+            "UIComponents Libraries",
+            "Bundlers (Webpack, Vite)",
+            "CI / CD",
+            "Git / GitHub",
+            "Accessibility",
+            "Testing",
+            "Python",
+            "Django"
+        ],
+        "soft":[
+			"Perspectiva Analítica",
+			"Criatividade",
+			"Liderança",
+            "Inteligencia Emocional",
+			"Escuta ativa",
+			"Comunicação Assertiva",
+            "Autoconhecimento e Autoaprendizagem",
+            "Gerenciamento de tempo",
+			"Consciência Politica e Cultural"
+        ]
+    },
+    "community":"Na Alpha Edtech fui monitor da matéria de Servidores e mentor nas matérias de Typescript e React.",
+    "educations":[
+        {
+            "course":"Desenvolvedor Fullstack",
+            "institution":"Alpha EdTech",
+            "resume":"Foram 1 ano e 6 meses de curso com imersão e aprendizado nas mais diversas bases de tecnologias WEB (frontend e backend)",
+            "status":"Completo"
+        },
+        {
+            "course":"Desenvolvedor Fullstack",
+            "institution":"Kenzie Academy",
+            "resume":"Foram 6 meses de curso, voltado ao frontend (JS, HTML e CSS) e ao backend com Python e Django",
+            "status":"Completo"
+        }
+    ]
+}

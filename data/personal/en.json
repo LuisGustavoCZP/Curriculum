@@ -1,0 +1,56 @@
+{
+	"name":"Luis Gustavo C. Zanetti Pereira",
+	"role":"Fullstack Developer",
+	"resume":"This professional's profile is focused on architecture and problem solving, he prefers to use code reuse and agile methodologies. With fast learning and the search for always better performance and efficiency of the algorithms, it stands out and adapts to any technology or methodologies used.",
+	"personal":{
+		"email":"luisgustavoczp@gmail.com",
+		"linkedin":"https://www.linkedin.com/in/luis-gustavo-zanetti",
+		"github":"https://github.com/LuisGustavoCZP",
+		"location":"Umuarama, Parana, Brazil"
+	},
+	"skills":{
+		"hard":[
+			"Javascript",
+			"Typescript",
+			"Node",
+			"Express",
+			"Nest",
+			"React",
+			"Tailwind",
+			"StyledComponents",
+			"UIComponents Libraries",
+			"Bundlers (Webpack, Vite)",
+			"CI / CD",
+			"Git / GitHub",
+			"Accessibility",
+			"Testing",
+			"Python",
+			"Django"
+		],
+		"soft":[
+			"Analytical Perspective",
+			"Creativity",
+			"Leadership",
+			"Emotional Intelligence",
+			"Active Listening",
+			"Assertive Communication",
+			"Self-knowledge and Self-learning",
+			"Time management"
+		]
+	},
+	"community":"At Alpha Edtech I was a monitor of the Servers matter and mentor in the Typescript and React matters.",
+	"educations":[
+		{
+			"course":"Fullstack Developer",
+			"institution":"Alpha EdTech",
+			"resume":"There were 1 year and 6 months of course with immersion and learning in the most diverse bases of WEB technologies (frontend and backend)",
+			"status":"Complete"
+		},
+		{
+			"course":"Fullstack Developer",
+			"institution":"Kenzie Academy",
+			"resume":"It was a 6-month course, focused on the frontend (JS, HTML and CSS) and the backend with Python and Django",
+			"status":"Complete"
+		}
+	]
+}

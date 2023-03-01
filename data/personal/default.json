@@ -1,0 +1,54 @@
+{
+    "name":"Luis Gustavo C. Zanetti Pereira",
+    "role":"Desenvolvedor Fullstack",
+    "resume":"Resumo...",
+    "personal":{
+        "email":"luisgustavoczp@gmail.com",
+        "linkedin":"https://www.linkedin.com/in/luis-gustavo-zanetti",
+        "github":"https://github.com/LuisGustavoCZP",
+        "location":"Umuarama, Paraná, Brasil"
+    },
+    "skills":{
+        "hard":[
+            "Javascript",
+            "Typescript",
+            "Node",
+            "Express",
+            "Nest",
+            "React",
+            "Tailwind",
+            "StyledComponents",
+            "UIComponents Libraries",
+            "Bundlers (Webpack, Vite)",
+            "CI / CD",
+            "Git / GitHub",
+            "Accessibility",
+            "Testing",
+            "Python",
+            "Django"
+        ],
+        "soft":[
+            "Habilidades pessoais e interpessoais",
+            "Autoconhecimento e Autoaprendizagem",
+            "Gerenciamento de tempo",
+            "Inteligencia Emocional"
+        ]
+    },
+    "experiences":[
+        {
+            "role":"Cargo",
+            "company":"Empresa",
+            "resume":"Descreva os principais valores, métricas e atividades que você entregou e desempenhou nesse cargo",
+            "tech":["Tech1", "Tech2"],
+            "period":"Período"
+        }
+    ],
+    "community":"",
+    "educations":[
+        {
+            "course":"Curso",
+            "institution":"Instituição",
+            "period":"Período Período"
+        }
+    ]
+}
