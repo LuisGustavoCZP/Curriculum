@@ -1,2 +1,2 @@
 # Curriculum
- Meu curriculo no GitPages em React
+ Meu curriculo no GitPages em JS, CSS e HTML
