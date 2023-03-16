@@ -26,7 +26,9 @@
             "Accessibility",
             "Testing",
             "Python",
-            "Django"
+            "Django",
+            "C#",
+            "Unity Engine"
         ],
         "soft":[
 			"Perspectiva Analítica",
@@ -40,19 +42,25 @@
 			"Consciência Politica e Cultural"
         ]
     },
-    "community":"Na Alpha Edtech fui monitor da matéria de Servidores e mentor nas matérias de Typescript e React.",
+    "community":"Na Alpha Edtech fui monitor da matéria de Servidores e instrutor nas matérias de Typescript e React.",
     "educations":[
         {
             "course":"Desenvolvedor Fullstack",
             "institution":"Alpha EdTech",
-            "resume":"Foram 1 ano e 6 meses de curso com imersão e aprendizado nas mais diversas bases de tecnologias WEB (frontend e backend)",
+            "resume":"Foram 1 ano e 6 meses de curso com imersão e aprendizado nas mais diversas bases de tecnologias WEB (frontend e backend).",
             "status":"Completo"
         },
         {
             "course":"Desenvolvedor Fullstack",
             "institution":"Kenzie Academy",
-            "resume":"Foram 6 meses de curso, voltado ao frontend (JS, HTML e CSS) e ao backend com Python e Django",
+            "resume":"Foram 6 meses de curso, voltado ao frontend (JS, HTML e CSS) e ao backend com Python e Django.",
             "status":"Completo"
+        },
+        {
+            "course":"Desenvolvedor Unity",
+            "institution":"Autônomo",
+            "resume":"Desde pequeno gostava de jogos, conforme a idade, a paixão se tornou curiosidade, depois veio o hobby de desenvolver games, até participando de GameJams.",
+            "status":"3 anos"
         }
     ]
 }

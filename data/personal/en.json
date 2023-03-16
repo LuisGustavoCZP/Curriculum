@@ -26,7 +26,9 @@
 			"Accessibility",
 			"Testing",
 			"Python",
-			"Django"
+			"Django",
+            "C#",
+            "Unity Engine"
 		],
 		"soft":[
 			"Analytical Perspective",
@@ -39,7 +41,7 @@
 			"Time management"
 		]
 	},
-	"community":"At Alpha Edtech I was a monitor of the Servers matter and mentor in the Typescript and React matters.",
+	"community":"At Alpha Edtech I was a monitor of the Servers matter and instructor in the Typescript and React matters.",
 	"educations":[
 		{
 			"course":"Fullstack Developer",
@@ -52,6 +54,12 @@
 			"institution":"Kenzie Academy",
 			"resume":"It was a 6-month course, focused on the frontend (JS, HTML and CSS) and the backend with Python and Django",
 			"status":"Complete"
-		}
+		},
+        {
+            "course":"Unity Developer",
+            "institution":"Autonomous",
+            "resume":"Since he was a little boy, he liked games, as he got older, his passion became curiosity, then came the hobby of developing games, even participating in GameJams.",
+            "status":"3 years"
+        }
 	]
 }
