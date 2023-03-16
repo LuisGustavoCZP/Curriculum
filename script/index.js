@@ -55,7 +55,6 @@ function assignPersonal (name, value)
 
     let el = document.getElementById(name);
     el.innerHTML = "";
-    //let list = document.createElement("ul");
 
     let infos = Object.entries(value);
 
@@ -68,7 +67,7 @@ function assignPersonal (name, value)
         
         if(p.link)
         {
-            a.href = `${p.prefix?p.prefix:""}${v}`;
+            a.href = `${ p.prefix ? p.prefix : "" }${v}`;
         }
 
         a.innerHTML = `
@@ -127,17 +126,21 @@ function assignExperiences (name, value)
             switch (n) 
             {
                 case "period":
-                    period.appendChild(e)
+                    period.appendChild(e);
                     break;
                 case "role":
-                    title.appendChild(e)
+                    title.appendChild(e);
                     break;
                 case "company":
-                    e.innerText = ` - ${e.innerText}`
-                    title.appendChild(e)
+                    e.innerText = ` - ${e.innerText}`;
+                    title.appendChild(e);
+                    break;
+                case "tech":
+                    e.innerText = `${v.join(", ")}`;
+                    general.appendChild(e);
                     break;
                 default:
-                    general.appendChild(e)
+                    general.appendChild(e);
                     break;
             }
         });
